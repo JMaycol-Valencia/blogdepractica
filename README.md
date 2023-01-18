@@ -14,3 +14,4 @@ un blog de practica para tener fundamentos de git mas claros.
 1.  J Maycol - Remoto 🤓 -  [Cuenta](http://https://github.com/Jmaycol997-remoto "Cuenta")
 1. Amigos de Maycol
 1. Mascotas de Maycol
+1. Platzi en total
